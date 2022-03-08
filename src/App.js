@@ -8,6 +8,12 @@ function App() {
           <div className="weather-app">
             <Weather />
           </div>
+          <small>
+            <a href="https://github.com/ElCart3/react-weather-app">
+              Open-sourced code
+            </a>{" "}
+            by Ellie Carter
+          </small>
         </div>
       </div>
     </div>
